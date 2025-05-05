@@ -17,4 +17,6 @@ why does my antivirus pop up - it hoepfully shouldn't but your computers gonna h
 
 i dont trust this - dont use it, this was convenient for me and if you dont like it, that's okay
 
+it could be a little slow sometimes - it aint free for github so you may get rate limited
+
 copyright me but like whos enforcing that shit anyway, the icon was drawn by dapaul so no stealy
