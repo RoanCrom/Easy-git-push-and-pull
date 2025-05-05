@@ -1,3 +1,0 @@
-open dist, run the exe. 
-
-add it as a shortcut to your home screen if you want?
