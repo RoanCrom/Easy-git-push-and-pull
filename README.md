@@ -1,5 +1,5 @@
 # Easy-git-push-and-pull
-I made it possible to upload fat files
+I made it possible to upload fat files - splitting is fun and hopefully not corrupting
 
 Is this safe?
 
